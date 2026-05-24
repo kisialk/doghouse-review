@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<urlset> 
 <url>
 <loc>https://doghouse-review.vercel.app/</loc>
-<lastmod>2025-11-04</lastmod>
 </url>
 <url>
 <loc>https://doghouse-review.vercel.app/play/</loc>
-<lastmod>2025-11-04</lastmod>
 </url>
 <url>
 <loc>https://doghouse-review.vercel.app/otzyvy/</loc>
-<lastmod>2025-11-04</lastmod>
 </url>
 <url>
 <loc>https://doghouse-review.vercel.app/demo/</loc>
-<lastmod>2025-11-04</lastmod>
 </url>
 </urlset>
