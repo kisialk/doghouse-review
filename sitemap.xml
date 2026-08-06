@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://icefishing-mys.com/</loc></url>
-  <url><loc>https://icefishing-mys.com/how-it-works/</loc></url>
-  <url><loc>https://icefishing-mys.com/bets-rtp/</loc></url>
-  <url><loc>https://icefishing-mys.com/bonuses/</loc></url>
-  <url><loc>https://icefishing-mys.com/multipliers/</loc></url>
-  <url><loc>https://icefishing-mys.com/strategy/</loc></url>
-  <url><loc>https://icefishing-mys.com/compare/</loc></url>
-  <url><loc>https://icefishing-mys.com/where-to-play/</loc></url>
-  <url><loc>https://icefishing-mys.com/faq/</loc></url>
-  <url><loc>https://icefishing-mys.com/screenshots/</loc></url>
-  <url><loc>https://icefishing-mys.com/about/</loc></url>
-  <url><loc>https://icefishing-mys.com/sources/</loc></url>
-  <url><loc>https://icefishing-mys.com/responsible-gambling/</loc></url>
+  <url><loc>https://icefishing-mys.com/en/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://icefishing-mys.com/en/how-to-play/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://icefishing-mys.com/en/leaf-bets/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://icefishing-mys.com/en/bonus-rounds/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://icefishing-mys.com/en/rtp/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://icefishing-mys.com/en/strategy/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://icefishing-mys.com/en/vs-crazy-time/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://icefishing-mys.com/en/demo/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://icefishing-mys.com/en/where-to-play/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://icefishing-mys.com/en/author/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
