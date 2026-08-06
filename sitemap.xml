@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset> 
-<url>
-<loc>https://doghouse-review.vercel.app/</loc>
-</url>
-<url>
-<loc>https://doghouse-review.vercel.app/play/</loc>
-</url>
-<url>
-<loc>https://doghouse-review.vercel.app/otzyvy/</loc>
-</url>
-<url>
-<loc>https://doghouse-review.vercel.app/demo/</loc>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://icefishing-mys.com/</loc></url>
+  <url><loc>https://icefishing-mys.com/how-it-works/</loc></url>
+  <url><loc>https://icefishing-mys.com/bets-rtp/</loc></url>
+  <url><loc>https://icefishing-mys.com/bonuses/</loc></url>
+  <url><loc>https://icefishing-mys.com/multipliers/</loc></url>
+  <url><loc>https://icefishing-mys.com/strategy/</loc></url>
+  <url><loc>https://icefishing-mys.com/compare/</loc></url>
+  <url><loc>https://icefishing-mys.com/where-to-play/</loc></url>
+  <url><loc>https://icefishing-mys.com/faq/</loc></url>
+  <url><loc>https://icefishing-mys.com/screenshots/</loc></url>
+  <url><loc>https://icefishing-mys.com/about/</loc></url>
+  <url><loc>https://icefishing-mys.com/sources/</loc></url>
+  <url><loc>https://icefishing-mys.com/responsible-gambling/</loc></url>
 </urlset>

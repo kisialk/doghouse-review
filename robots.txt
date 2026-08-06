@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /go/
+
+# Primary host sitemap only (drop domains must not invent a second sitemap index)
+Sitemap: https://icefishing-mys.com/sitemap.xml
